@@ -1,2 +1,2 @@
-# smartfusionhub
-a coding site
+# Code-Wars
+A website for  bussiness purposes
